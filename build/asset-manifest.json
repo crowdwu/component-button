@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.29fc5158.chunk.css",
-    "main.js": "/static/js/main.fa6e6b29.chunk.js",
-    "main.js.map": "/static/js/main.fa6e6b29.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fa61784581af6c0f428525827fa26971.js": "/precache-manifest.fa61784581af6c0f428525827fa26971.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.29fc5158.chunk.css.map": "/static/css/main.29fc5158.chunk.css.map"
+    "main.css": "/component-button/build/static/css/main.29fc5158.chunk.css",
+    "main.js": "/component-button/build/static/js/main.a30a7d95.chunk.js",
+    "main.js.map": "/component-button/build/static/js/main.a30a7d95.chunk.js.map",
+    "runtime~main.js": "/component-button/build/static/js/runtime~main.ef51119b.js",
+    "runtime~main.js.map": "/component-button/build/static/js/runtime~main.ef51119b.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/component-button/build/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/component-button/build/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/component-button/build/index.html",
+    "precache-manifest.c15eb9ef4ea99d0240c3d7ea822d9baa.js": "/component-button/build/precache-manifest.c15eb9ef4ea99d0240c3d7ea822d9baa.js",
+    "service-worker.js": "/component-button/build/service-worker.js",
+    "static/css/main.29fc5158.chunk.css.map": "/component-button/build/static/css/main.29fc5158.chunk.css.map"
   }
 }
